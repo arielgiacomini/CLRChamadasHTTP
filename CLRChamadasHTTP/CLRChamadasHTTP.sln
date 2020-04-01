@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CLRChamadasHTTP", "CLRChamadasHTTP.sqlproj", "{204813A7-B679-4765-91AA-E9CA039BC83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLRServices", "src\CLRServices\CLRServices.csproj", "{1ABD77B4-5292-4376-95DE-12B6E011685A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204813A7-B679-4765-91AA-E9CA039BC83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204813A7-B679-4765-91AA-E9CA039BC83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204813A7-B679-4765-91AA-E9CA039BC83D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{204813A7-B679-4765-91AA-E9CA039BC83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204813A7-B679-4765-91AA-E9CA039BC83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204813A7-B679-4765-91AA-E9CA039BC83D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1ABD77B4-5292-4376-95DE-12B6E011685A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABD77B4-5292-4376-95DE-12B6E011685A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABD77B4-5292-4376-95DE-12B6E011685A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABD77B4-5292-4376-95DE-12B6E011685A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD0123B-F546-4109-9905-01B6C6FCDABE}
+	EndGlobalSection
+EndGlobal
